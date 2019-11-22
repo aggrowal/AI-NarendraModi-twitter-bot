@@ -1,0 +1,2 @@
+# add id of a tweets which mentions your bot
+# neeeds to be added once
