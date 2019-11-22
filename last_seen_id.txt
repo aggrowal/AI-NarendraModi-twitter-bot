@@ -1,2 +1,1 @@
-# add id of a tweets which mentions your bot
-# neeeds to be added once
+# mention bot using another account once and then copy the tweet's id and paste it here
