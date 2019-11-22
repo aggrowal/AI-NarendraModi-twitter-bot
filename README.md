@@ -1,5 +1,5 @@
 # Text-Generating Twitter bot    
-Code to generate tweets and post them to twitter, along with reply to some mentions    
+Code to generate tweets and post them to twitter, along with reply to some mentions )( check give_mentions_reply.py )    
 Using this code a bot can be made that posts generated tweets after a certain interval (check tweet_generate.py )    
 Tweets of PM narendra modi were extracted and used to train the model    
 This bot can also reply to mentions and reply according to the text of the tweet ( check bot.py )    
