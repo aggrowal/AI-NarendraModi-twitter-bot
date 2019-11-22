@@ -13,4 +13,3 @@ Following libraries were used in this project:
 # Future Updates :
 Following featres will be added in future updates:
 1. ChatBot so that you can chat with the AI bot
-2. Search articles for you
