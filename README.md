@@ -9,3 +9,8 @@ This bot was tested by hosting it on heroku , instructions to host on heroku can
 Following libraries were used in this project:    
 * <a href="https://github.com/minimaxir/textgenrnn" target="_blank">TextGenRnn</a>
 * <a href="https://github.com/tweepy/tweepy" target="_blank">Tweepy</a>    
+
+# Setup:
+* Save your twitter api keys as environment variables ( can be configured in file bot.py )    
+* If you want to use heroku use the above mentioned link
+* To use locally use command python bot.py
