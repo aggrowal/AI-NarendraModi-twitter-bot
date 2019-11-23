@@ -1,4 +1,5 @@
 # Text-Generating Twitter bot    
+![Snapshot of twitter account used to demonstrate the bot](https://github.com/rohan-aggarwal/text-generating-twitter-bot/blob/master/AI_Narendra_Modi.PNG)
 Code to generate tweets and post them to twitter    
 Tweets of PM narendra modi were extracted and used to train the model    
 Using this code a bot can be made that posts generated tweets after a certain interval (check tweet_generate.py )    
