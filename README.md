@@ -14,7 +14,7 @@ Following libraries were used in this project:
 
 # Deploying Instructions:
 * Save your twitter api keys as environment variables ( can be configured in file bot.py )   
-* Information on how to get twitter api keys - ![Get Twitter Keys](https://themepacific.com/how-to-generate-api-key-consumer-token-access-key-for-twitter-oauth/994/)    
+* Information on how to get twitter api keys - <a href="https://themepacific.com/how-to-generate-api-key-consumer-token-access-key-for-twitter-oauth/994/">Get Twitter Keys</a>        
 * Follow instructions written in last_seen_id.txt
 * If you want to use heroku use the above mentioned link
 * To use locally use command python bot.py
