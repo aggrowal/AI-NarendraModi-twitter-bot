@@ -35,5 +35,3 @@ def reply_to_tweets(api):
         if '#rahulgandhi' in test_string:
             api.update_status('@' + mention.user.screen_name +
                     ' sahabjaadein', mention.id)
-        if '#rtvideo' in test_string or '#rtarticle' in test_string or '#rtpic' in test_string:
-            api.retweet(mention.id)
