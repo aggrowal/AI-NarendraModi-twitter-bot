@@ -2,10 +2,10 @@
 Code to generate tweets for Current Indian PM Narendra Modi and post them to twitter.    
 Tweets of PM narendra modi were extracted and used to train the model.   
 ![Snapshot of Bot Twitter account](https://github.com/rohan-aggarwal/AI-NarendraModi/blob/master/Screen%20shots/02-posted-tweets.PNG)
-![Logs generated after deploying bot to heroku](https://github.com/rohan-aggarwal/AI-NarendraModi/blob/master/Screen%20shots/01-heroku-logs.PNG)
 Using this code a bot can be made that posts generated tweets after a certain interval (check tweet_generate.py )    
 This bot can also with reply to some mentions ( check give_mentions_reply.py )        
 This bot was tested by hosting it on heroku , instructions to host on heroku can be found by <a href="https://devcenter.heroku.com/articles/git" target="_blank">Clicking Here</a>    
+![Logs generated after deploying bot to heroku](https://github.com/rohan-aggarwal/AI-NarendraModi/blob/master/Screen%20shots/01-heroku-logs.PNG)
 
 # Used Libraries :
 Following libraries were used in this project:    
