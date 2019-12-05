@@ -1,18 +1,10 @@
-import tweepy
-import time
-import os
-import sys
-import io
-from textgenrnn import textgenrnn
-modi = textgenrnn('NarendraModi.hdf5')
-
-def generate_tweet():
+def generate_tweet(modi):
     modi.generate_to_file('generated_tweet.txt')
 
-def get_text():
+def get_text(modi):
     text = ''
     while True:
-        generate_tweet()
+        generate_tweet(modi)
         f = open('generated_tweet.txt','r')
         text = f.read()
         f.close()

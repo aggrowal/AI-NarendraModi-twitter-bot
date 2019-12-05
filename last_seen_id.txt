@@ -1,1 +1,4 @@
-# mention bot using another account once and then copy the tweet's id and paste it here
+# mention your bot account from another twitter account
+# goto that tweet (from bot account) it will have format like - 
+				https://twitter.com/<accountid>/status/<number>
+#just paste this number in this file and remove everything else
